@@ -14,7 +14,7 @@
 
 [WarmUp_test_W01]: https://forms.gle/48LBjj9CsAUdK7ru9
 [WarmUp_test_W02]: https://forms.gle/n87G6sJeKuFwTNas5
-[WarmUp_test_W03]: https://forms.gle/
+[WarmUp_test_W03]: https://forms.gle/vHe4qMR6eEyPqExN6
 [WarmUp_test_W04]: https://forms.gle/
 [WarmUp_test_W05]: https://forms.gle/
 [WarmUp_test_W06]: https://forms.gle/
@@ -26,7 +26,7 @@
 
 [Slides_W01]: ../master/Class01_naive_bayes/BKK.2025.ML.Class01.pdf
 [Slides_W02]: ../master/Class02_linear_regression_and_classification/BKK.2025.ML.Class02.pdf
-[Slides_W03]: ../master/class03_.../BKK.2025.ML.Class03.pdf
+[Slides_W03]: ../master/Class03_linear_classification/BKK.2025.ML.Class03.pdf
 [Slides_W04]: ../master/class04_.../BKK.2025.ML.Class04.pdf
 [Slides_W05]: ../master/class05_.../BKK.2025.ML.Class05.pdf
 [Slides_W06]: ../master/class06_.../BKK.2025.ML.Class06.pdf
@@ -39,9 +39,9 @@
 | Class   | Content                              | Slides               | WarmUp test             | Practice                 | Home Assignment          | Soft Deadline          |
 |:------:|:-------------------------------------|:--------------------:|:-----------------------:|:------------------------:|:------------------------:|:----------------------:|
 | 01     | Intro: KNN, Naive Bayes              | [Slides][Slides_W01] | [Test][WarmUp_test_W01] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class01_naive_bayes/Class01_practice_naive_bayes.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class01_naive_bayes/Class01_ha_knn.ipynb) | 06.10.2025 13:00 UTC+7 |
-| 02     | Linear Regression & Classification   | [Slides][Slides_W02] | [Test][WarmUp_test_W02] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class02_linear_regression_and_classification/Class02_linear_regression_and_sgd.ipynb) |  |  |
+| 02     | Linear Regression                    | [Slides][Slides_W02] | [Test][WarmUp_test_W02] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class02_linear_regression_and_classification/Class02_linear_regression_and_sgd.ipynb) |  |  |
+| 03     | Linear Classification  			    | [Slides][Slides_W03] | [Test][WarmUp_test_W03] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class03_linear_classification/Class03_logreg_intro_to_pytorch.ipynb) |    |     |
 <!---
-| 03     | SVM & PCA                            | [Slides][Slides_W03] | [Test][WarmUp_test_W03] | [Contest][ContestID_W03] | [Contest][ContestID_W03] |                        |
 | 04     | Trees, Ensembles, Gradient Boosting  | [Slides][Slides_W04] | [Test][WarmUp_test_W04] | [Contest][ContestID_W04] | [Contest][ContestID_W04] |                        |
 | 05     | Unsupervised Learning                | [Slides][Slides_W05] | [Test][WarmUp_test_W05] | [Contest][ContestID_W05] | [Contest][ContestID_W05] |                        |
 | 06     | Introduction to DL & PyTorch         | [Slides][Slides_W06] | [Test][WarmUp_test_W06] | [Contest][ContestID_W06] | [Contest][ContestID_W06] |                        |
