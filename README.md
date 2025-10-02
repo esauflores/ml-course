@@ -27,7 +27,7 @@
 [Slides_W01]: ../master/Class01_naive_bayes/BKK.2025.ML.Class01.pdf
 [Slides_W02]: ../master/Class02_linear_regression_and_classification/BKK.2025.ML.Class02.pdf
 [Slides_W03]: ../master/Class03_linear_classification/BKK.2025.ML.Class03.pdf
-[Slides_W04]: ../master/class04_.../BKK.2025.ML.Class04.pdf
+[Slides_W04]: ../master/Class04_SVM/BKK.2025.ML.Class04.pdf
 [Slides_W05]: ../master/class05_.../BKK.2025.ML.Class05.pdf
 [Slides_W06]: ../master/class06_.../BKK.2025.ML.Class06.pdf
 [Slides_W07]: ../master/class07_.../BKK.2025.ML.Class07.pdf
@@ -41,6 +41,7 @@
 | 01     | Intro: KNN, Naive Bayes              | [Slides][Slides_W01] | [Test][WarmUp_test_W01] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class01_naive_bayes/Class01_practice_naive_bayes.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class01_naive_bayes/Class01_ha_knn.ipynb) | 06.10.2025 13:00 UTC+7 |
 | 02     | Linear Regression                    | [Slides][Slides_W02] | [Test][WarmUp_test_W02] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class02_linear_regression_and_classification/Class02_linear_regression_and_sgd.ipynb) |  |  |
 | 03     | Linear Classification  			    | [Slides][Slides_W03] | [Test][WarmUp_test_W03] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class03_linear_classification/Class03_logreg_intro_to_pytorch.ipynb) |    |     |
+| 04     | SVM & PCA             			    | [Slides][Slides_W04] | [Test][WarmUp_test_W03] | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class04_SVM/Class04_SVM_practice.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IvanSol/ml-course/blob/master/Class04_SVM/Class04_pictures_svd.ipynb) | TBD |
 <!---
 | 04     | Trees, Ensembles, Gradient Boosting  | [Slides][Slides_W04] | [Test][WarmUp_test_W04] | [Contest][ContestID_W04] | [Contest][ContestID_W04] |                        |
 | 05     | Unsupervised Learning                | [Slides][Slides_W05] | [Test][WarmUp_test_W05] | [Contest][ContestID_W05] | [Contest][ContestID_W05] |                        |
